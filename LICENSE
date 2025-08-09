@@ -1,24 +1,43 @@
-BSD 2-Clause License
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAVIGA – Tecnologia Global Comércio, Serviço, SU, LDA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-Copyright (c) 2025, Roberto596
+    <!-- Cabeçalho -->
+    <header>
+        <h1>TAVIGA – Tecnologia Global Comércio, Serviço, SU, LDA</h1>
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="sobre.html">Sobre Nós</a>
+            <a href="catalogo.html">Catálogo</a>
+            <a href="contato.html">Contato</a>
+        </nav>
+    </header>
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+    <!-- Seção Principal -->
+    <section class="hero">
+        <h2>Aluguel de Máquinas para Construção Civil</h2>
+        <p>Equipamentos modernos, manutenção garantida e atendimento rápido em todo o território de Angola.</p>
+    </section>
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+    <!-- Informações da Empresa -->
+    <section class="empresa-info">
+        <h3>Informações da Empresa</h3>
+        <p><strong>Endereço:</strong> Viana – Rua da Suave</p>
+        <p><strong>Contribuinte:</strong> 5002092093</p>
+        <p><strong>Telefones:</strong> 923 527 207 / 923 525 096</p>
+        <p><strong>E-mail:</strong> <a href="mailto:tavigaserv@gmail.com">tavigaserv@gmail.com</a></p>
+    </section>
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+    <!-- Rodapé -->
+    <footer>
+        <p>&copy; 2025 TAVIGA – Tecnologia Global Comércio, Serviço, SU, LDA | Todos os direitos reservados.</p>
+    </footer>
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+</body>
+</html>
