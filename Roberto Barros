@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAVIGA – Tecnologia Global Comércio, Serviço, SU, LDA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Cabeçalho -->
+    <header>
+        <h1>TAVIGA – Tecnologia Global Comércio, Serviço, SU, LDA</h1>
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="sobre.html">Sobre Nós</a>
+            <a href="catalogo.html">Catálogo</a>
+            <a href="contato.html">Contato</a>
+        </nav>
+    </header>
+
+    <!-- Seção Principal -->
+    <section class="hero">
+        <h2>Aluguel de Máquinas para Construção Civil</h2>
+        <p>Equipamentos modernos, manutenção garantida e atendimento rápido em todo o território de Angola.</p>
+    </section>
+
+    <!-- Informações da Empresa -->
+    <section class="empresa-info">
+        <h3>Informações da Empresa</h3>
+        <p><strong>Endereço:</strong> Viana – Rua da Suave</p>
+        <p><strong>Contribuinte:</strong> 5002092093</p>
+        <p><strong>Telefones:</strong> 923 527 207 / 923 525 096</p>
+        <p><strong>E-mail:</strong> <a href="mailto:tavigaserv@gmail.com">tavigaserv@gmail.com</a></p>
+    </section>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>&copy; 2025 TAVIGA – Tecnologia Global Comércio, Serviço, SU, LDA | Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
